@@ -23,7 +23,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 ### App Walkthough GIF
 
 
-<img src="https://s9.gifyu.com/images/Flixter_pt1.md.gif" width=250><br>
+<img src="https://s9.gifyu.com/images/Flixter_pt1.gif" width=250><br>
 
 ### Notes
 Most of the challanges I encountered during this assignment were related to displaying the app. It would build fine but the app would instantly shut down the first reason for this was because I needed androidx and the second reason is due to a spelling mistake.
