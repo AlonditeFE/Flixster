@@ -30,7 +30,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### Notes
 
-Describe any challenges encountered while building the app.
+While I was able to implament the rounded corners using Glide transformations. It unfortunately affected the layout of the images. 
 
 ## Open-source libraries used
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
